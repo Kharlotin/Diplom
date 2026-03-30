@@ -1,0 +1,12 @@
+E:\Домашка\diplom\diplom\bin\Debug\diplom.exe.config
+E:\Домашка\diplom\diplom\bin\Debug\diplom.exe
+E:\Домашка\diplom\diplom\bin\Debug\diplom.pdb
+E:\Домашка\diplom\diplom\obj\Debug\diplom.csproj.AssemblyReference.cache
+E:\Домашка\diplom\diplom\obj\Debug\diplom.authForm.resources
+E:\Домашка\diplom\diplom\obj\Debug\diplom.navForn.resources
+E:\Домашка\diplom\diplom\obj\Debug\diplom.Properties.Resources.resources
+E:\Домашка\diplom\diplom\obj\Debug\diplom.csproj.GenerateResource.cache
+E:\Домашка\diplom\diplom\obj\Debug\diplom.csproj.CoreCompileInputs.cache
+E:\Домашка\diplom\diplom\obj\Debug\diplom.exe
+E:\Домашка\diplom\diplom\obj\Debug\diplom.pdb
+E:\Домашка\diplom\diplom\obj\Debug\diplom.reportForm.resources
